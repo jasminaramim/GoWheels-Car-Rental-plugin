@@ -1,11 +1,12 @@
 === GoWheels Car Rental ===
-Contributors: jasmin
+Contributors: jasminaramim, jasmin
 Tags: car rental, booking, fleet, deposit, elementor
 Requires at least: 6.0
-Tested up to: 6.6
+Tested up to: 6.7
 Requires PHP: 7.4
 Stable tag: 1.0.0
 License: GPLv2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 Car rental management for a single company: fleet, availability search, admin-approved bookings, deposits, cash and online payments.
 

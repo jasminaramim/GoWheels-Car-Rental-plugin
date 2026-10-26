@@ -1,15 +1,17 @@
 <?php
 /**
- * Plugin Name:       GoWheels Car Rental
- * Plugin URI:        https://gowheels.example
- * Description:       Single-company car rental management: fleet, availability search, admin-approved bookings, deposits, cash and online payments, shortcodes and Elementor widgets.
- * Version:           1.0.0
+ * Plugin Name: GoWheels Car Rental
+ * Plugin URI: https://github.com/jasminaramim/GoWheels-Car-Rental-plugin
+ * Description: Single-company car rental management: fleet, availability search, admin-approved bookings, deposits, cash and online payments, shortcodes and Elementor widgets.
+ * Version: 1.0.0
  * Requires at least: 6.0
- * Requires PHP:      7.4
- * Author:            Jasmin
- * License:           GPL-2.0-or-later
- * Text Domain:       gowheels
- * Domain Path:       /languages
+ * Requires PHP: 7.4
+ * Author: Jasmin
+ * Author URI: https://github.com/jasminaramim
+ * License: GPL-2.0-or-later
+ * License URI: https://www.gnu.org/licenses/gpl-2.0.html
+ * Text Domain: gowheels
+ * Domain Path: /languages
  */
 
 defined( 'ABSPATH' ) || exit;
